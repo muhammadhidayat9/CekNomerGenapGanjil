@@ -52,5 +52,3 @@ Aplikasi ini menggunakan event handling sebagai berikut:
 ## Penulis
 Dikembangkan oleh [Muhammad Hidayat(2210010354)].
 
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
