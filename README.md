@@ -50,5 +50,6 @@ Aplikasi ini menggunakan event handling sebagai berikut:
 - **NetBeans IDE**: Pengembangan proyek menggunakan NetBeans.
 
 ## Penulis
-Dikembangkan oleh [Muhammad Hidayat(2210010354)].
+Dikembangkan oleh Muhammad Hidayat(2210010354).
 
+## Tugas 1 
