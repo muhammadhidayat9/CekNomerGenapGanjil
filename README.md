@@ -52,4 +52,4 @@ Aplikasi ini menggunakan event handling sebagai berikut:
 ## Penulis
 Dikembangkan oleh Muhammad Hidayat(2210010354).
 
-## Tugas 1 
+- Tugas 1 
